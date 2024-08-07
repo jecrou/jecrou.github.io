@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jecrou.github.io/sitemap.html.gz
+Sitemap: https://jecrou.github.io/app/sitemap.html.gz
+Sitemap: https://jecrou.github.io/assets/sitemap.html.gz
+Sitemap: https://jecrou.github.io/css/sitemap.html.gz
+Sitemap: https://jecrou.github.io/includes/sitemap.html.gz
+Sitemap: https://jecrou.github.io/item/sitemap.html.gz
+Sitemap: https://jecrou.github.io/src/sitemap.html.gz
